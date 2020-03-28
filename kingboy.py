@@ -92,9 +92,9 @@ print  """
    \033[1;92m███████▒▒Welcome To AAHIL CREATIONS▒▒████████
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mRanAhil\033[1;95m♡╭──────────•◈•──────────╮♡
 \033[1;94mAuthor\033[1;91m: \033[1;91mAcreations
-\033[1;94mBlackMafia\033[1;91m: \033[1;91▒▓██████████████]99.9
+\033[1;94mRanaAhil\033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAcreations
-\033[1;94mWhatsapp\033[1;91m: \033[1;91m+923094161457
+\033[1;94mWhatsapp\033[1;91m: \033[1;91m MA NI DUNGA
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mRanAhil\033[1;95m♡╰──────────•◈•──────────╯♡"""
 jalan('              \033[1;96m....................RanaAhil.....................:')
 jalan("\033[1;93m   ┈┈┈┈┈┈┈┈╱▔▔▔▔╲┈┈┈┈┈┈┈┈   ")
@@ -269,7 +269,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;96m[♡] \033[1;92mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mBlackMafia\033[1;95m♡──────────•◈•──────────╯♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRanaAhil\033[1;95m♡──────────•◈•──────────╯♡"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -295,9 +295,9 @@ def pilih_super():
 	for o in titik:
 		print("\r\033[1;91mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;94m«-----\x1b[1;93m♡To Stop Process Press CTRL+Z♡\033[1;94m----»"
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mBlackMafia\033[1;95m♡──────────•◈•──────────♡"
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRanaAhil\033[1;95m♡──────────•◈•──────────♡"
 	jalan(' \033[1;93m ........Cloning Start plzzz Wait.......... ')
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mBlackMafia\033[1;95m♡──────────•◈•──────────♡"
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mRanaAhil\033[1;95m♡──────────•◈•──────────♡"
 	
 			
 	def main(arg):
@@ -430,7 +430,7 @@ def pilih_super():
 : \033[1;96m .....Aahil  Creations........... \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
-               +923094161457"""
+               +MA NI DUNGA """
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
