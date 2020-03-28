@@ -1,15 +1,8 @@
 ﻿#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To RANA AAHIL
+#The Credit For This Code Goes To aahil
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
-
-
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
-from multiprocessing.pool import ThreadPool
-from requests.exceptions import ConnectionError
-from mechanize import Browser
-
 
 reload(sys)
 sys.setdefaultencoding('utf8')
